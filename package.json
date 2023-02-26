@@ -15,16 +15,6 @@
 				"label": "UwU",
 				"uiTheme": "vs-dark",
 				"path": "./themes/UwU-theme.json"
-			},
-			{
-				"label": "Miku",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Miku-theme.json"
-			},
-			{
-				"label": "Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Dark-theme.json"
 			}
 		]
 	}
