@@ -1,4 +1,13 @@
 {
+	"name": "fxhxyz",
+	"colors": {
+		"editor.background": "#272822",
+		"editorCursor.foreground": "#F8F8F0",
+		"editor.foreground": "#F8F8F2",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#3E3D32",
+		"editor.selectionBackground": "#49483E"
+	},
 	"tokenColors": [
 		{
 			"settings": {
@@ -36,10 +45,7 @@
 		},
 		{
 			"name": "User-defined constant",
-			"scope": [
-				"constant.character",
-				"constant.other"
-			],
+			"scope": ["constant.character", "constant.other"],
 			"settings": {
 				"foreground": "#AE81FF"
 			}
@@ -140,10 +146,7 @@
 		},
 		{
 			"name": "Library class/type",
-			"scope": [
-				"support.type",
-				"support.class"
-			],
+			"scope": ["support.type", "support.class"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#66D9EF"
@@ -173,14 +176,5 @@
 				"foreground": "#F8F8F0"
 			}
 		}
-	],
-	"colors": {
-		"editor.background": "#272822",
-		"editorCursor.foreground": "#F8F8F0",
-		"editor.foreground": "#F8F8F2",
-		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E"
-	},
-	"name": "fxhxyz"
+	]
 }
