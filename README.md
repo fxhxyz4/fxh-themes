@@ -4,7 +4,7 @@
 
 #
 
-## Working with Markdown
+### Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
