@@ -3,8 +3,23 @@
 	"displayName": "fxh themes",
 	"description": "themes for vscode",
 	"version": "0.0.1",
+	"main": "./src/index.js",
+	"author": "fxhxyz <fxhxyz@proton.me> (https://fxhxyz.vercel.app/)",
+	"keywords": [
+		"vscode-theme",
+		"vscode",
+		"theme",
+		"miku",
+		"neon",
+		"UwU",
+		"80s"
+	],
 	"engines": {
 		"vscode": "^1.75.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fxhxyz4/fxh-themes"
 	},
 	"categories": [
 		"Themes"
